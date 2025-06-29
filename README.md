@@ -103,6 +103,60 @@ My journey into backend engineering with ALX officially began on April 28, 2025.
 - ✅ Practiced consistency and resilience through challenges.  
 - ✅ Learned how to use AI effectively to support deep learning.
 
+
+# ALX Backend Engineering Program – June 2025 Work Log
+
+Welcome to my monthly work log for **June 2025**, which marks my **second month** in the ALX Backend Software Engineering Program. This README summarizes what I worked on, my achievements, lessons from challenges, and key highlights.
+
+---
+
+## ⚙️ What I Worked On
+
+This month covered **Week 4 to Week 7** of the program. I focused on:
+
+- Understanding **control flow** in Python (`if`, `else`, `while`, `for`, `match-case`)
+- Learning **data structures**: Lists, Dictionaries, Sets, Tuples
+- Creating and using **functions** for reusable code
+- Organizing code using **modules, packages, and libraries**
+- Beginning **Object-Oriented Programming (OOP)**
+- Practicing **error handling** to avoid program crashes
+- Writing **unit tests** to verify code functionality
+- Learning about **serialization and deserialization** for saving and loading data
+
+---
+
+## 🏆 Achievements
+
+- Built Python scripts that respond to different inputs using control flow
+- Gained strong understanding of **Python data structures** and used them in mini-projects
+- Wrote custom functions for basic tasks like calculations
+- Structured code using **modules and packages**
+- Practiced **OOP principles**: classes, objects, inheritance, polymorphism
+- Learned to write **unit tests** using `unittest`
+- Improved logical thinking and problem-solving skills
+
+---
+
+## 🔍 Lessons from Challenges
+
+- Faced many **code errors**, especially when using unfamiliar modules and OOP—but learned by debugging and trying again
+- OOP was tough at first, but practice and reviewing examples helped me understand better
+- Balancing **university final exams** with ALX content was hard, but I overcame it with good time management and discipline
+
+---
+
+## 🌟 Highlights of the Month
+
+- My first function worked perfectly after several errors—it felt rewarding!
+- Watching my program make **decisions** was exciting—it felt like it could "think"
+- Finished Week 7 with strong understanding of classes, objects, and testing
+- Learned to stay consistent and focused even during stressful times
+
+---
+
+Thank you for reading my June work log. Stay tuned for more updates as I continue my backend engineering journey!
+
+
 ---
 
 🛠️ _I’ll be updating this log monthly to document my continued progress._
